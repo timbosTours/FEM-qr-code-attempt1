@@ -85,7 +85,7 @@ https://www.youtube.com/watch?v=uUX0RJLtNog
 Timothy Fawcett
 
 - Frontend Mentor - [@timsTours]
-- Twitter - [@yo urusername](https://www.twitter.com/yourusername)
+- Twitter - [@timbosTours](https://www.twitter.com/timbosTours)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
