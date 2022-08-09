@@ -27,8 +27,8 @@ This is my first attempt at a Front End Mentor challenge. Really looking forward
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://timbostours.github.io/FEM-qr-code-attempt1/
+
 
 ## My process
 
