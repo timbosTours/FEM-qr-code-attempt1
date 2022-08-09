@@ -15,9 +15,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+This is my first attempt at a Front End Mentor challenge. Really looking forward to getting some feedback on how I can improve my code.
+
 
 ### Screenshot
 
@@ -63,9 +64,6 @@ I also had to play around with with the corner radius a little bit. took a a bit
     border-radius: 5% / 4%;
 ```
 
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
 Visaully it looks fine but I hope to get some feedback on how to improve my code
@@ -79,18 +77,19 @@ https://stackoverflow.com/questions/31217268/center-div-on-the-middle-of-screen
 https://www.youtube.com/watch?v=uUX0RJLtNog
 
 
-
 ## Author
 
 Timothy Fawcett
 
-- Frontend Mentor - [@timsTours]
+- Frontend Mentor - [@timbosTours]
 - Twitter - [@timbosTours](https://www.twitter.com/timbosTours)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I would like to shout out John Smilga's youtube chanel Coding addict:
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+https://www.youtube.com/c/CodingAddict
+
+
+
