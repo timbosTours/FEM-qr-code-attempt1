@@ -50,9 +50,9 @@ body {
     padding: 1rem;
     font-weight: 700;
     color: var(--big-text-color);
+    font-size: x-small;
 }
 .container-text-sml {
-    padding: 1rem;
     font-weight: 400;
     color: var(--small-text-color);
 }
@@ -60,4 +60,5 @@ body {
 .attribution {
     position: fixed;
     bottom: 0;
+    display: none;
 }
